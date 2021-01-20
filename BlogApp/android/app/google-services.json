@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72793379249",
+    "firebase_url": "https://shop-app-e1b17.firebaseio.com",
+    "project_id": "shop-app-e1b17",
+    "storage_bucket": "shop-app-e1b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72793379249:android:b7b132746e00d5a2c5ed90",
+        "android_client_info": {
+          "package_name": "com.example.BlogApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72793379249-aig7melfena2i1m5bcnpickkj8alp497.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6cpsYP7ohwDN3zkeh9V_Mc6vJug9WYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72793379249-aig7melfena2i1m5bcnpickkj8alp497.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
