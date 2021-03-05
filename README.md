@@ -1,9 +1,9 @@
 # Explore
 A Flutter-Flask based travel blog app.
 
-A simple app where users can make accounts and add blogs with photos of various locations.
+A simple app where users can make accounts and add blogs with photos of various locations .
 
-~ Screenshots of the app (running on emulator ):
+~ Screenshots of the app ( app being run on an emulator ):
 
 -> LoginPages
 
